@@ -1,1 +1,11 @@
-Exploring the web with html CSS and javascript
+Andrew Maus
+08 MAR 2018
+------------------------------------------------
+A simple Digital Clock, reminiscent of the digital alarm clocks a mere decade ago.
+Now that smart phones are so common, often your clock is replaced by your smartphone.
+I feel that the smartphone lacks the ever-present feel of a digital alarm clock, with its soft, red glow in the dark of your room: unintrusive, but always present.
+This clock reminds us of those times, and seeks to welcome you back with a familar style.
+
+The clock is programmed with javascript and implemented with html and css.
+
+Future additions will include an alarm function with snooze button and loud annoying beep that wakes up the neighbors and roommates.

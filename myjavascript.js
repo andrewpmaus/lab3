@@ -1,8 +1,10 @@
+//from https://www.w3schools.com/js/tryit.asp?filename=tryjs_timing_clock
 function startTime() {
     var today = new Date();
     var h = today.getHours();
     var m = today.getMinutes();
     var s = today.getSeconds();
+    h = checkTime(h);
     m = checkTime(m);
     s = checkTime(s);
     document.getElementById('txt').innerHTML =
