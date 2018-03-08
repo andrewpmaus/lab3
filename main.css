@@ -1,6 +1,6 @@
 @font-face{
  font-family:'digital-clock-font';
- src: url('digital-7.regular.ttf');
+ src: url('digital-7.mono.ttf');
 }
 
 body {
@@ -14,6 +14,13 @@ body {
 #txt{
     font-family: 'digital-clock-font';
     color: red;
-    font-size: 125px;
+    font-size: 25vw;
     text-align: center;
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
 }
